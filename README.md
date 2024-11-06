@@ -8,3 +8,5 @@ User-Company Relationship: A user can have multiple companies. A company belongs
 A company cannot be accessed by anauthorized users.
 
 PHPUnit test is included at tests/Unit/UserCompanyRelationshipTest.php
+
+Database: SQLite
